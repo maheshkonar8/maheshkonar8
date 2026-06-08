@@ -2,7 +2,7 @@
 
 **Backend & systems engineer.** I build products that scale — and I think about them like a business owner, not just an engineer.
 
-Currently leading backend and system design at GlamGuider, a beauty-tech platform serving **30K+ users and 21K monthly actives** across web, Android, and iOS. I own API design, system architecture, infrastructure, and cross-team execution.
+Currently a Full Stack Developer at Admobs, leading backend and system design on GlamGuider, a beauty-tech platform serving **30K+ users and 21K monthly actives** across web, Android, and iOS. I own API design, system architecture, infrastructure, and cross-team execution.
 
 ---
 
