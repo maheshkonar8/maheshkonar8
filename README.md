@@ -8,7 +8,7 @@ Nearly 3 years in production. Right now I own the backend of **GlamGuider** at A
 | :---: | :---: | :---: | :---: | :---: |
 | registered users | monthly actives | loyalty wallets | points transactions | REST endpoints I own |
 
-🌐 **Portfolio & case studies:** [mahesh-portfolio-29e.pages.dev](https://mahesh-portfolio-29e.pages.dev/)
+🌐 **Portfolio & case studies:** [mahesh-portfolio](https://mahesh-portfolio-jet.vercel.app/)
 
 ---
 
@@ -61,4 +61,4 @@ C#/.NET software for Basler industrial cameras and real-time encoder data. Autom
 
 Open to **full-time backend / full-stack roles** and a few **freelance projects** (business web apps with admin panels, and backends that handle money, points or approvals).
 
-🌐 [Portfolio](https://mahesh-portfolio-29e.pages.dev/) · 💼 [LinkedIn](https://www.linkedin.com/in/maheshk86000) · ✉️ [konartech@gmail.com](mailto:konartech@gmail.com)
+🌐 [Portfolio](https://mahesh-portfolio-jet.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/maheshk86000) · ✉️ [konartech@gmail.com](mailto:konartech@gmail.com)
